@@ -25,7 +25,7 @@ const markdown = triste => {
 
 # Imagens :rainbow:
 
-![eu](IMG_1223.jpeg)
+![eu](img.jpeg)
 
 # Obrigado
 
